@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practika13</string>
+    <string name="first_cathetus">Введите длину 1-ого катета</string>
+    <string name="second_cathetus">Введите длину 2-ого катета</string>
+
+    <string name="perimeter">Периметр прямоугольного треугольника: </string>
+    <string name="area">Площадь прямоугольного треугольника: </string>
+    <string name="hypotenuse">Гипотенуза прямоугольного треугольника: </string>
+
+    <string name="searh">найти</string>
+    <string name="katet1">1-ый катет</string>
+    <string name="katet2">2-ой катет</string>
+</resources>
